@@ -1,0 +1,17 @@
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\RsaKeyGenerator.exe
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\RsaKeyGenerator.deps.json
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\RsaKeyGenerator.runtimeconfig.json
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\RsaKeyGenerator.runtimeconfig.dev.json
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\RsaKeyGenerator.dll
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\ref\RsaKeyGenerator.dll
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\RsaKeyGenerator.pdb
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.AssemblyInfoInputs.cache
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.AssemblyInfo.cs
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.csproj.CoreCompileInputs.cache
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.csproj.CopyComplete
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.dll
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\ref\RsaKeyGenerator.dll
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.pdb
+D:\RSAKEYGenerator\RsaKeyGenerator\RsaKeyGenerator\obj\Debug\net5.0\RsaKeyGenerator.genruntimeconfig.cache
